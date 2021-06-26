@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movie_app_2021/static/css/main.a5683925.chunk.css",
-    "main.js": "/movie_app_2021/static/js/main.2a29a31e.chunk.js",
-    "main.js.map": "/movie_app_2021/static/js/main.2a29a31e.chunk.js.map",
-    "runtime-main.js": "/movie_app_2021/static/js/runtime-main.25863d7e.js",
-    "runtime-main.js.map": "/movie_app_2021/static/js/runtime-main.25863d7e.js.map",
-    "static/js/2.c4dff985.chunk.js": "/movie_app_2021/static/js/2.c4dff985.chunk.js",
-    "static/js/2.c4dff985.chunk.js.map": "/movie_app_2021/static/js/2.c4dff985.chunk.js.map",
-    "index.html": "/movie_app_2021/index.html",
-    "static/css/main.a5683925.chunk.css.map": "/movie_app_2021/static/css/main.a5683925.chunk.css.map",
-    "static/js/2.c4dff985.chunk.js.LICENSE.txt": "/movie_app_2021/static/js/2.c4dff985.chunk.js.LICENSE.txt"
+    "main.css": "/ReactCloneCoding/static/css/main.a5683925.chunk.css",
+    "main.js": "/ReactCloneCoding/static/js/main.2a29a31e.chunk.js",
+    "main.js.map": "/ReactCloneCoding/static/js/main.2a29a31e.chunk.js.map",
+    "runtime-main.js": "/ReactCloneCoding/static/js/runtime-main.1d6918bf.js",
+    "runtime-main.js.map": "/ReactCloneCoding/static/js/runtime-main.1d6918bf.js.map",
+    "static/js/2.c4dff985.chunk.js": "/ReactCloneCoding/static/js/2.c4dff985.chunk.js",
+    "static/js/2.c4dff985.chunk.js.map": "/ReactCloneCoding/static/js/2.c4dff985.chunk.js.map",
+    "index.html": "/ReactCloneCoding/index.html",
+    "static/css/main.a5683925.chunk.css.map": "/ReactCloneCoding/static/css/main.a5683925.chunk.css.map",
+    "static/js/2.c4dff985.chunk.js.LICENSE.txt": "/ReactCloneCoding/static/js/2.c4dff985.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.25863d7e.js",
+    "static/js/runtime-main.1d6918bf.js",
     "static/js/2.c4dff985.chunk.js",
     "static/css/main.a5683925.chunk.css",
     "static/js/main.2a29a31e.chunk.js"
